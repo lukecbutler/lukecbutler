@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @tarheelfan200
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Luke!
+- 👀 I’m interested in building web apps / mobile apps for businesses.
+- 🌱 I’m currently learning how to build & host my own live site.
+- 📫 How to reach me: email @ lcb9606@uncw.edu || text @ 8283170444
+- ⚡ Fun fact: I spent a month hiking up the Appalachain Trail!
 
 <!---
 tarheelfan200/tarheelfan200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
