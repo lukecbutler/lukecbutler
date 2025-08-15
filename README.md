@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luke!
-- 👀 I’m interested in building website & web applications businesses.
+- 👀 I’m interested in building applications for businesses.
 - 🌱 I’m currently learning how to build web apps using the python webframework 'Flask'.
 - 📫 How to reach me: email @ lcb9606@uncw.edu || text @ 8283170444
 - ⚡ Fun fact: I love backpacking, and am planning on hiking the entire Appalachain Trail in 2027!
