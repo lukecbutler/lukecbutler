@@ -37,22 +37,23 @@ A full-stack semantic search engine built for the UNCW Sociology Department.
 * **Core Logic:** Implemented vector embeddings and cosine similarity search using NumPy to retrieve contextually relevant stories based on abstract concepts.
 * **Deployment:** Deployed the Flask backend on PythonAnywhere to serve a live research tool.
 
+### [🧦 Dobby the Elf Chatbot](http://bit.ly/3Vtpk3J)
+**Tech Stack:** Microsoft Copilot Studio
+A conversational AI persona that emulates the personality and knowledge of Dobby from Harry Potter, demonstrating prompt engineering and persona design.
+
 ### [📦 Trackr: Inventory Management System](https://github.com/lukecbutler/Trackr)
 **Tech Stack:** Python, Flask, SQLite, pdfplumber
 A web application deployed to automate inventory for local print shops.
 * **Automation:** Built a data pipeline that parses complex PDF invoices with >95% accuracy, eliminating hours of manual data entry.
 * **Security:** Engineered a robust auth system with password hashing and session management.
 
-### [🧦 Dobby the Elf Chatbot](http://bit.ly/3Vtpk3J)
-**Tech Stack:** Microsoft Copilot Studio
-A conversational AI persona that emulates the personality and knowledge of Dobby from Harry Potter, demonstrating prompt engineering and persona design.
 
 ---
 
 ## 💼 Professional Experience
 
 **Graduate Research Assistant | UNCW** *(Dec 2024 – Present)*
-* Architecting custom LLM solutions for educational use cases.
+* Architecting custom LLM solutions for the college of sociology's use cases.
 * Translating academic vision into technical roadmaps and deployed software.
 
 **Research Assistant | Dr. Laavanya Rachakonda Lab** *(Aug 2024 – Present)*
