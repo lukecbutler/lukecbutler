@@ -37,7 +37,7 @@ A full-stack semantic search engine built for the UNCW Sociology Department.
 * **Core Logic:** Implemented vector embeddings and cosine similarity search using NumPy to retrieve contextually relevant stories based on abstract concepts.
 * **Deployment:** Deployed the Flask backend on PythonAnywhere to serve a live research tool.
 
-### [🧦 Dobby the Elf Chatbot](http://bit.ly/3Vtpk3J)
+### [🧦 Dobby the Elf Chatbot](https://lukecbutler.github.io/Dobby/)
 **Tech Stack:** Microsoft Copilot Studio
 A conversational AI persona that emulates the personality and knowledge of Dobby from Harry Potter, demonstrating prompt engineering and persona design.
 
