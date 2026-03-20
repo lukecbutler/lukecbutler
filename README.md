@@ -1,30 +1,25 @@
-# Hi there, I'm Luke Butler 👋
+# Hi there, I'm Luke Butler
 
-I am a **Computer Science Graduate Student** at the University of North Carolina Wilmington (UNCW), specializing in building AI-driven web applications and automating complex workflows.
+I am a **Computer Science Graduate Student** at the University of North Carolina Wilmington (UNCW), and currently working as a **NASA Graduate Researcher** at Langley Research Center (LaRC) in Hamton, VA.
 
-I bridge the gap between abstract requirements and deployed software. Whether it's architecting a RAG-based search engine for sociological research or automating inventory for small businesses, I love using Python and modern AI tools to solve real-world problems.
+I thoroughly enjoy solving hard problems under constraints. This can be in needing to satisfy memory requirements, space management, or even: 'how do I fix x' in the real world?
+This drew me to computer science and programming, and has given me the oppertunity to work on amazing projects & builds along the way.
 
 ---
 
-## 🛠 Skills & Tech Stack
+## 💼 Professional Experience
 
-**Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat-square&logo=postgresql&logoColor=white)
+**Graduate Researcher | NASA** *(Dec 2024 – Present)*
+* Produced software requirements and design based on problem statements by stakeholders, resulting in modeling of support tool for better decision making.
+* Member of the Systems Design Innovation cohort, focusing on the modernization of NASA’s Engineering Design, Development, Test & Evaluation (DDT&E) lifecycle.
 
-**Frameworks & Libraries:**
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+**Research Assistant | UNCW** *(Dec 2024 – Dec 2025)*
+* Architecting custom LLM solutions for the college of sociology's use cases.
+* Translating academic vision into technical roadmaps and deployed software.
 
-**AI & Tools:**
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+**Research Assistant | UNCW** *(Aug 2024 – Present)*
+* Developed `Trackr`, reducing manual stock-taking efforts for small businesses.
+* Automated invoice processing pipelines using Python.
 
 ---
 
@@ -37,33 +32,37 @@ A full-stack semantic search engine built for the UNCW Sociology Department.
 * **Core Logic:** Implemented vector embeddings and cosine similarity search using NumPy to retrieve contextually relevant stories based on abstract concepts.
 * **Deployment:** Deployed the Flask backend on PythonAnywhere to serve a live research tool.
 
-### [🧦 Dobby the Elf Chatbot](https://lukecbutler.github.io/Dobby/)
-**Tech Stack:** Microsoft Copilot Studio
-A conversational AI persona that emulates the personality and knowledge of Dobby from Harry Potter, demonstrating prompt engineering and persona design.
-
 ### [📦 Trackr: Inventory Management System](https://github.com/lukecbutler/Trackr)
 **Tech Stack:** Python, Flask, SQLite, pdfplumber
 A web application deployed to automate inventory for local print shops.
 * **Automation:** Built a data pipeline that parses complex PDF invoices with >95% accuracy, eliminating hours of manual data entry.
-* **Security:** Engineered a robust auth system with password hashing and session management.
+* **Security:** Engineered a robust authorization system with password hashing and session management.
 
 
 ---
 
-## 💼 Professional Experience
 
-**Graduate Research Assistant | UNCW** *(Dec 2024 – Present)*
-* Architecting custom LLM solutions for the college of sociology's use cases.
-* Translating academic vision into technical roadmaps and deployed software.
+## 🛠 Skills & Tech Stack
 
-**Research Assistant | Dr. Laavanya Rachakonda Lab** *(Aug 2024 – Present)*
-* Developed `Trackr`, reducing manual stock-taking efforts for small businesses.
-* Automated invoice processing pipelines using Python.
+**Languages:**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
+C++
+JavaScript
+Java
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries:**
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
+
 
 ## 🌲 Beyond Code
-When I'm not in VS Code, you can find me **long-distance backpacking**. I've completed multiple section hikes on the Appalachian Trail, where I learned that debugging a Tent setup in the rain is surprisingly similar to debugging deployment errors on a server.
+In my free time, you can find me **long-distance backpacking**, where I've completed multiple section hikes on the Appalachain Trail.
 
 ---
 
