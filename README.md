@@ -1,4 +1,4 @@
-# Hi there, I'm Luke Butler
+# Hi there, I'm Luke!
 
 I am a **Computer Science Graduate Student** at the University of North Carolina Wilmington (UNCW), and currently working as a **NASA Graduate Researcher** at Langley Research Center (LaRC) in Hamton, VA.
 
