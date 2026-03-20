@@ -1,6 +1,6 @@
 # Hi there, I'm Luke!
 
-I am a **Computer Science Graduate Student** at the University of North Carolina Wilmington (UNCW), and currently working as a **NASA Graduate Researcher** at Langley Research Center (LaRC) in Hamton, VA.
+I am a **Computer Science Graduate Student** at the University of North Carolina Wilmington (UNCW), currently working as a **NASA Graduate Researcher** at Langley Research Center (LaRC) in Hamton, VA.
 
 Growing up building and fixing things, I was drawn to computer science and programming as a medium to continue my passion. Solving problems under constraints has always been a joy of mine, whether that be satifying memory requirements, space management, or even: 'how do I fix x' in the real world?
 
