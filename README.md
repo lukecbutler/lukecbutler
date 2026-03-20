@@ -2,8 +2,9 @@
 
 I am a **Computer Science Graduate Student** at the University of North Carolina Wilmington (UNCW), and currently working as a **NASA Graduate Researcher** at Langley Research Center (LaRC) in Hamton, VA.
 
-I thoroughly enjoy solving hard problems under constraints. This can be in needing to satisfy memory requirements, space management, or even: 'how do I fix x' in the real world?
-This drew me to computer science and programming, and has given me the oppertunity to work on amazing projects & builds along the way.
+Growing up building and fixing things, I was drawn to computer science and programming as a medium to continue my passion. Solving problems under constraints has always been a joy of mine, whether that be satifying memory requirements, space management, or even: 'how do I fix x' in the real world?
+This fascination has given me the opportunities to build amazing software for research, work at NASA, and even embark down an entrepreneurial journey. 
+If you feel the same way about breaking things, fixing them, and solving problems along the way -> reach out, and I'm sure should work on something together.
 
 ---
 
@@ -11,7 +12,7 @@ This drew me to computer science and programming, and has given me the oppertuni
 
 **Graduate Researcher | NASA** *(Dec 2024 – Present)*
 * Produced software requirements and design based on problem statements by stakeholders, resulting in modeling of support tool for better decision making.
-* Member of the Systems Design Innovation cohort, focusing on the modernization of NASA’s Engineering Design, Development, Test & Evaluation (DDT&E) lifecycle.
+* Member of the Systems Design Innovation cohort, focusing on the modernization of NASA’s Engineering Design, Development, Test & Evaluation (DDT&E) lifecycle and implementation of Digital Engineering.
 
 **Research Assistant | UNCW** *(Dec 2024 – Dec 2025)*
 * Architecting custom LLM solutions for the college of sociology's use cases.
@@ -46,9 +47,9 @@ A web application deployed to automate inventory for local print shops.
 
 **Languages:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
-C++
-JavaScript
-Java
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat-square&logo=postgresql&logoColor=white)
