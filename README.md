@@ -5,7 +5,7 @@ I am a NASA Graduate Researcher currently working at Langley Research Center (La
 Growing up building and fixing things, I was naturally drawn to computer science as a medium to continue that passion. Solving problems under constraints has always been a passion of mine, whether that's satisfying optimizing runtime efficiency, designing system requirements, or simply figuring out how to fix something that's broken.
 
 This fascination has given me opportunities to build amazing software for research, work with astounding people, and even embark down an entrepreneurial journey.
-If you feel the same way about breaking things, fixing them, and solving problems along the way -> reach out. I'm sure we'll get along great.
+If you feel the same way about breaking things, fixing them, and solving problems along the way   -> reach out. I'm sure we'll get along great.
 
 ---
 
