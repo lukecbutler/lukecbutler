@@ -2,10 +2,10 @@
 
 I am a NASA Graduate Researcher currently working at Langley Research Center (LaRC), building infrastructure to model and analyze complex workflows in organizational processes. Currently I am finishing graduate school studying computer science at UNCW, focusing on AI powered software and it's business applications.
 
-Growing up building and fixing things, I was drawn to computer science and programming as a medium to continue my passion. Solving problems under constraints has always been a joy of mine, whether that be satifying memory requirements, space management, or even: 'how do I fix x' in the real world?
+Growing up building and fixing things, I was naturally drawn to computer science as a medium to continue that passion. Solving problems under constraints has always been a passion of mine, whether that's satisfying optimizing runtime efficiency, designing system requirements, or simply figuring out how to fix something that's broken.
 
-This fascination has given me the opportunities to build amazing software for research, work at NASA, and even embark down an entrepreneurial journey. 
-If you feel the same way about breaking things, fixing them, and solving problems along the way -> reach out. I'm sure should work on something together.
+This fascination has given me opportunities to build amazing software for research, continue my love of fixing things NASA, and even embark down an entrepreneurial journey.
+If you feel the same way about breaking things, fixing them, and solving problems along the way -> reach out. I'm sure we'll get along great.
 
 ---
 
