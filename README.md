@@ -1,39 +1,23 @@
 # Hi there, I'm Luke!
 
-I am a NASA Graduate Researcher currently working at Langley Research Center (LaRC), building infrastructure to model and analyze complex workflows in organizational processes. Currently I am finishing graduate school studying computer science at UNCW, focusing on AI powered software and it's business applications.
+I am a NASA Graduate Researcher currently working at Langley Research Center (LaRC), building infrastructure to model and analyze complex workflows in organizational processes. Currently I am finishing grad school studying computer science at UNCW, focusing on AI powered software and it's business applications.
 
 Growing up building and fixing things, I was naturally drawn to computer science as a medium to continue that passion. Solving problems under constraints has always been a passion of mine, whether that's satisfying optimizing runtime efficiency, designing system requirements, or simply figuring out how to fix something that's broken.
 
-This fascination has given me opportunities to build amazing software for research, continue my love of fixing things NASA, and even embark down an entrepreneurial journey.
+This fascination has given me opportunities to build amazing software for research, work with astounding people, and even embark down an entrepreneurial journey.
 If you feel the same way about breaking things, fixing them, and solving problems along the way -> reach out. I'm sure we'll get along great.
-
----
-
-## Professional Experience
-
-**Graduate Researcher | NASA** *(Dec 2024 – Present)*
-* Produced software requirements and design based on problem statements by stakeholders, resulting in modeling of support tool for better decision making.
-* Member of the Systems Design Innovation cohort, focusing on the modernization of NASA’s Engineering Design, Development, Test & Evaluation (DDT&E) lifecycle and implementation of Digital Engineering.
-
-**Graduate AI Researcher | UNCW** *(Dec 2024 – Dec 2025)*
-* Architecting custom LLM solutions for the college of sociology's use cases.
-* Translating academic vision into technical roadmaps and deployed software.
-
-**Research Assistant | UNCW** *(Aug 2024 – Dec 2025)*
-* Developed `Trackr`, reducing manual stock-taking efforts for small businesses.
-* Automated invoice processing pipelines using Python.
 
 ---
 
 ## Featured Projects
 
-### [🦅 HawkAI: Sociological Concept Explorer](https://github.com/lukecbutler/HawkAI)
+### [🦅 HawkAI: Retrieval-Augmented Generation Platform](https://github.com/lukecbutler/HawkAI)
 Tech Stack: Python, Flask, Google Gemini API, NumPy
 The first custom LLM application of its kind at UNCW -> Retrieval-augmented generation software enabling students to query 500+ peer essays by meaning, not just keywords.
 
 - **ETL Pipeline:** Ingests and embeds unstructured .docx and .pdf documents into a vector index with a JSON caching layer enabling 14ms retrieval.
 - **Semantic Search:** Matches queries to narratives using high-dimensional dot-product similarity via NumPy, ranking by meaning and emotional context.
-- **Research Impact:** Co-authoring academic paper; platform laid foundation for ongoing LLM research at UNCW and heavily contributed to landing a NASA Langley internship.
+- **Research Impact:** Co-authoring academic paper; platform laid foundation for ongoing LLM research at UNCW.
 
 ### [📦 Trackr: Inventory Management System](https://github.com/lukecbutler/Trackr)
 **Tech Stack:** Python, Flask, SQLite, pdfplumber
