@@ -28,11 +28,12 @@ If you feel the same way about breaking things, fixing them, and solving problem
 ## 🚀 Featured Projects
 
 ### [🦅 HawkAI: Sociological Concept Explorer](https://github.com/lukecbutler/HawkAI)
-**Tech Stack:** Python, Flask, Google Gemini API, NumPy, RAG
-A full-stack semantic search engine built for the UNCW Sociology Department.
-* **Architecture:** Designed a Retrieval-Augmented Generation (RAG) system to index 400+ student narratives.
-* **Core Logic:** Implemented vector embeddings and cosine similarity search using NumPy to retrieve contextually relevant stories based on abstract concepts.
-* **Deployment:** Deployed the Flask backend on PythonAnywhere to serve a live research tool.
+Tech Stack: Python, Flask, Google Gemini API, NumPy, RAG
+The first custom LLM application of its kind at UNCW — a full-stack semantic search engine enabling students to query 500+ peer essays by meaning, not keywords.
+
+ETL Pipeline: Ingests and embeds unstructured .docx and .pdf documents into a vector index with a JSON caching layer enabling 14ms retrieval.
+Semantic Search: Matches queries to narratives using high-dimensional dot-product similarity via NumPy, ranking by meaning and emotional context.
+Research Impact: Co-authoring academic paper; platform laid foundation for ongoing LLM research at UNCW and heavily contributed to landing a NASA Langley internship.
 
 ### [📦 Trackr: Inventory Management System](https://github.com/lukecbutler/Trackr)
 **Tech Stack:** Python, Flask, SQLite, pdfplumber
