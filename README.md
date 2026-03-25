@@ -20,10 +20,12 @@ The first custom LLM application of its kind at UNCW -> Retrieval-augmented gene
 - **Research Impact:** Co-authoring academic paper; platform laid foundation for ongoing LLM research at UNCW.
 
 ### [📦 Trackr: Inventory Management System](https://github.com/lukecbutler/Trackr)
-**Tech Stack:** Python, Flask, SQLite, pdfplumber
-A web application deployed to automate inventory for local print shops.
-* **Automation:** Built a data pipeline that parses complex PDF invoices with >95% accuracy, eliminating hours of manual data entry.
-* **Security:** Engineered a robust authorization system with password hashing and session management.
+**Tech Stack:** Python, Flask, SQLite, pdfplumber, JavaScript
+A full-stack inventory system deployed in production for a local print shop — automating wholesale order processing from PDF to database.
+
+- **PDF Pipeline:** Parses unstructured S&S Activewear invoices using positional patterns, un-duplicates against existing inventory, and loads directly into SQLite with >95% extraction accuracy.
+- **Async Interface:** Searchable, sortable inventory dashboard with inline quantity updates via fetch API, so no page reloads!
+- **Auth & Recovery:** Registration, hashed passwords (Werkzeug), cookie sessions, and token-based email password recovery.
 
 
 ---
