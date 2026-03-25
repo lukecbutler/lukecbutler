@@ -19,7 +19,7 @@ If you feel the same way about breaking things, fixing them, and solving problem
 * Architecting custom LLM solutions for the college of sociology's use cases.
 * Translating academic vision into technical roadmaps and deployed software.
 
-**Research Assistant | UNCW** *(Aug 2024 – Present)*
+**Research Assistant | UNCW** *(Aug 2024 – Dec 2025)*
 * Developed `Trackr`, reducing manual stock-taking efforts for small businesses.
 * Automated invoice processing pipelines using Python.
 
