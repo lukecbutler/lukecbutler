@@ -1,6 +1,6 @@
 # Hi there, I'm Luke!
 
-I am a NASA Graduate Researcher currently working at Langley Research Center (LaRC), building infrastructure to model and analyze complex workflows in organizational processes. Currently I am finishing grad school studying computer science at UNCW, focusing on AI powered software and it's business applications.
+I'm a Graduate Researcher at NASA Langley Research Center (LaRC), building infrastructure to model and analyze complex workflows in organizational processes. Currently finishing my M.S. in Computer Science at UNCW, where my work focuses on AI-powered software and its business applications.
 
 Growing up building and fixing things, I was naturally drawn to computer science as a medium to continue that passion. Solving problems under constraints has always been a passion of mine, whether that's satisfying optimizing runtime efficiency, designing system requirements, or simply figuring out how to fix something that's broken.
 
