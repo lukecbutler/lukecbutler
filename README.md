@@ -31,9 +31,9 @@ If you feel the same way about breaking things, fixing them, and solving problem
 Tech Stack: Python, Flask, Google Gemini API, NumPy, RAG
 The first custom LLM application of its kind at UNCW — a full-stack semantic search engine enabling students to query 500+ peer essays by meaning, not keywords.
 
-ETL Pipeline: Ingests and embeds unstructured .docx and .pdf documents into a vector index with a JSON caching layer enabling 14ms retrieval.
-Semantic Search: Matches queries to narratives using high-dimensional dot-product similarity via NumPy, ranking by meaning and emotional context.
-Research Impact: Co-authoring academic paper; platform laid foundation for ongoing LLM research at UNCW and heavily contributed to landing a NASA Langley internship.
+- **ETL Pipeline:** Ingests and embeds unstructured .docx and .pdf documents into a vector index with a JSON caching layer enabling 14ms retrieval.
+- **Semantic Search:** Matches queries to narratives using high-dimensional dot-product similarity via NumPy, ranking by meaning and emotional context.
+- **Research Impact:** Co-authoring academic paper; platform laid foundation for ongoing LLM research at UNCW and heavily contributed to landing a NASA Langley internship.
 
 ### [📦 Trackr: Inventory Management System](https://github.com/lukecbutler/Trackr)
 **Tech Stack:** Python, Flask, SQLite, pdfplumber
