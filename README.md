@@ -1,8 +1,8 @@
 # Hi there, I'm Luke!
 
-I'm a Graduate Researcher at NASA Langley Research Center (LaRC), building infrastructure to model and analyze complex workflows in organizational processes. Currently finishing my M.S. in Computer Science at UNCW, where my work focuses on AI-powered software and its business applications.
+I'm currently a Graduate Researcher at NASA Langley Research Center, designing & building infrastructure to model and analyze complex workflows in organizational processes. Currently finishing my M.S. in Computer Science at UNCW, where my work focuses on AI-powered software and its business applications.
 
-Growing up building and fixing things, I was naturally drawn to computer science as a medium to continue that passion. Solving problems under constraints has always been a passion of mine, whether that's designing system requirements or simply figuring out how to fix something that's broken.
+Growing up building and fixing things, I was naturally drawn to computer science as a medium to continue that passion. Solving problems under constraints has always been a fascination of mine, whether that's designing systems & building software, or simply figuring out how to fix something that's broken.
 
 This fascination has given me opportunities to build amazing software for research, work with astounding people, and continually learn along the way.
 If you feel the same way about breaking things, fixing them, and solving problems along the way - reach out. I'm sure we'll get along great.
@@ -21,7 +21,7 @@ The first custom LLM application of its kind at UNCW -> Retrieval-augmented gene
 
 ### [📦 Trackr: Inventory Management System](https://github.com/lukecbutler/Trackr)
 **Tech Stack:** Python, Flask, SQLite, pdfplumber, JavaScript
-A full-stack inventory system deployed in production for a local print shop — automating wholesale order processing from PDF to database.
+A full-stack inventory system deployed in production for a local print shop, automating wholesale order processing from PDF to database.
 
 - **PDF Pipeline:** Parses unstructured S&S Activewear invoices using positional patterns, un-duplicates against existing inventory, and loads directly into SQLite with >95% extraction accuracy.
 - **Web App Interface:** Searchable, sortable inventory dashboard with inline quantity updates via fetch API, so no page reloads!
@@ -51,7 +51,7 @@ A full-stack inventory system deployed in production for a local print shop — 
 
 
 ## Beyond Code
-In my free time, you can find me **long-distance backpacking**, where I've completed multiple section hikes on the Appalachain Trail.
+In my free time, you can find me long-distance backpacking, where I've completed multiple section hikes on the Appalachain Trail.
 
 ---
 
