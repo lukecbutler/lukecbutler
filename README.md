@@ -2,9 +2,9 @@
 
 I'm a Graduate Researcher at NASA Langley Research Center (LaRC), building infrastructure to model and analyze complex workflows in organizational processes. Currently finishing my M.S. in Computer Science at UNCW, where my work focuses on AI-powered software and its business applications.
 
-Growing up building and fixing things, I was naturally drawn to computer science as a medium to continue that passion. Solving problems under constraints has always been a passion of mine, whether that's satisfying optimizing runtime efficiency, designing system requirements, or simply figuring out how to fix something that's broken.
+Growing up building and fixing things, I was naturally drawn to computer science as a medium to continue that passion. Solving problems under constraints has always been a passion of mine, whether that's designing system requirements or simply figuring out how to fix something that's broken.
 
-This fascination has given me opportunities to build amazing software for research, work with astounding people, and even embark down an entrepreneurial journey.
+This fascination has given me opportunities to build amazing software for research, work with astounding people, and continually learn along the way.
 If you feel the same way about breaking things, fixing them, and solving problems along the way - reach out. I'm sure we'll get along great.
 
 ---
@@ -24,8 +24,8 @@ The first custom LLM application of its kind at UNCW -> Retrieval-augmented gene
 A full-stack inventory system deployed in production for a local print shop — automating wholesale order processing from PDF to database.
 
 - **PDF Pipeline:** Parses unstructured S&S Activewear invoices using positional patterns, un-duplicates against existing inventory, and loads directly into SQLite with >95% extraction accuracy.
-- **Async Interface:** Searchable, sortable inventory dashboard with inline quantity updates via fetch API, so no page reloads!
-- **Auth & Recovery:** Registration, hashed passwords (Werkzeug), cookie sessions, and token-based email password recovery.
+- **Web App Interface:** Searchable, sortable inventory dashboard with inline quantity updates via fetch API, so no page reloads!
+- **Auth & Recovery:** Registration, hashed passwords, cookie sessions, and token-based email password recovery.
 
 
 ---
