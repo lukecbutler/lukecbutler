@@ -1,13 +1,5 @@
 # Hi there, I'm Luke!
 
-I'm currently a Software Engineering Intern working primarily in Data Engineering. I recently graduated with my M.S. in Computer Science from UNCW, where my work focused on LLM-integrated software and its business applications.
-
-Growing up building and fixing things, I was naturally drawn to computer science as a medium to continue that passion. Solving problems under constraints has always been a fascination of mine, whether that's designing systems & building software, or simply figuring out how to fix something that's broken.
-
-This fascination has given me opportunities to build amazing software for research, work with astounding people, and continually learn along the way.
-If you feel the same way about breaking things, fixing them, and solving problems along the way - reach out. I'm sure we'll get along great.
----
-
 ## Featured Projects
 
 ### [🦅 HawkAI: Retrieval-Augmented Generation Platform](https://github.com/lukecbutler/HawkAI)
